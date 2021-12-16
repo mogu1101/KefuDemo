@@ -40,7 +40,7 @@ class ViewController: UIViewController {
         if client.isLoggedInBefore {
             return true
         }
-        let username = "test"
+        let username = "test12311"
         let password = "123456"
         
         func doLogin() -> Bool {
